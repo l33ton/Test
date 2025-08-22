@@ -7,7 +7,7 @@ public class Test {
     }
     public void GithubPull () {
 
-
+        System.out.printf("GithubPull()\n");
 
     }
 
